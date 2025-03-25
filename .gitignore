@@ -2,3 +2,4 @@
 .kotlin
 composeApp/build
 composeApp/.gradle
+.idea
