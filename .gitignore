@@ -1,0 +1,4 @@
+.gradle
+.kotlin
+composeApp/build
+composeApp/.gradle
